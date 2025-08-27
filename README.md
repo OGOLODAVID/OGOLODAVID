@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @OGOLODAVID
-- 👀 I’m interested in Programming...
-- 🌱 I’m currently learning JavaScript..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @OGOLODAVID
+- I’m interested in Quantitative finance
+- I’m currently a third year student studying applied mathematics and statistics
+
 
 <!---
 OGOLODAVID/OGOLODAVID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
